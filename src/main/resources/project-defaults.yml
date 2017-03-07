@@ -1,0 +1,6 @@
+keycloak:
+  url: http://localhost:8080/auth
+  state-checker-value: 77TWAs51odUOk4-fBovYweMFp_ocae6ioTuUqV-qkCk
+  admin:
+    username: admin
+    password: admin
